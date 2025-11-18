@@ -118,8 +118,11 @@ Generate cluster profiles + heatmaps
 Final 4 Cluster Profiles
 
 Teal – Daylight & Dry Low-Risk Commuter Areas	Stable daylight/dry environments; low-behavioral risk.
+
 Blue – Driver-Error High-Exposure (Mixed Light/Surface)	Urban mixed-condition areas with high driver-error frequency.
+
 Gold – Wet-Surface Crash-Sensitive	High crashes on wet surfaces; loss-of-control common.
+
 Purple – High-Speed / High-Severity Areas	Rural dry-daylight crashes but high severity due to speed.
 # Visualizations Created
 
