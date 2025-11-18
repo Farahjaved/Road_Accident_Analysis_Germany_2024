@@ -1,5 +1,3 @@
-nrw# Road_Accident_Analysis_Germany_2024
-Analyzing road accident patterns in Germany in the year 2024, based on road surface, light conditions and driver behaviours.
 # Project Overview
 This repository contains a comprehensive Python-based analysis of Germany’s 2024 accident dataset, provided by OpenGEOdata.NRW. The project performs exploratory data analysis (EDA) and cluster segmentation to uncover meaningful accident patterns across municipalities.
 The analysis focuses on three key dimensions that influence road safety:
